@@ -774,7 +774,7 @@ Callik,Каллик,,NWNForBG
 Calliostroni,Калльострони,,BG1NPC
 Callisto,Каллисто,,SandrahEET
 Calos,Калос,,SandrahEET
-Cam'wethrin,Кам'ветрин,,Kivan_and_Deheriana
+Cam'wethrin,Кам'ветрин,язык эльфов,Kivan_and_Deheriana
 Camaris,Камарис,,BG2EE-russian
 Cambion,камбион,,BG1RUS-EET
 Camitis,Камитис,,BG2EE-russian
@@ -939,7 +939,7 @@ Corellon,Кореллон,,BG2EE-russian
 Coren,Корен,,BG2EE-russian
 Corgeig,Коргейг,,BG2EE-russian
 Corianna,Корианна,,BG1RUS-EET
-Cormamin,Кормамин,,Kivan_and_Deheriana
+Cormamin,кормамин,язык эльфов,Kivan_and_Deheriana
 Cormanthir,кормантирский,,BG1NPC
 Cormanthor,Кормантор,,BG2EE-russian
 Cormanthyr,Кормантир,,BG1NPC
@@ -1179,7 +1179,7 @@ Desreta,Дезрета,,BG1RUS-EET
 Dessarin,Дессарин,,BG1NPC
 Desther,Дестер,,NWNForBG
 Destus,Дестус,,BG1RUS-EET
-Detholalle,Детолаллэ,язык эльфов,Kivan_and_Deheriana
+Detholalle,детолаллэ,язык эльфов,Kivan_and_Deheriana
 Dettseh,Деттсе,,BG2EE-russian
 Devan,Деван,,Kivan_and_Deheriana
 Devern,Деверн,,SandrahEET
@@ -1456,6 +1456,7 @@ Emcyric,Эмцирик,,SandrahEET
 Emesi,Эмеси,,sod_rus
 Emmerich,Эммерик,,iwd2_rus
 En'coiamin,эн'коиамин,язык эльфов,BG1NPC
+En,ан,язык эльфов,Kivan_and_Deheriana
 Enaril,Энарил,,IWDEE-russian
 Enchanter,чародей,,BG1RUS-EET
 Endar,Эндар,,NWNForBG
@@ -3052,6 +3053,7 @@ Marnard,Марнард,,sod_rus
 Marpenoth,Марпенот,,BG1RUS-EET
 Marrok,Маррок,,NWNForBG
 Marsember,Марсемберский,,sod_rus
+Marth,март,язык эльфов,Kivan_and_Deheriana
 Marthammor,Мартаммор,,sod_rus
 Marthur,Мартур,,BG1RUS-EET
 Martur,Мартур,,BG2EE-russian
@@ -4484,7 +4486,7 @@ Tempus,Темпус,,BG1RUS-EET
 Ten'rashwe,тен'рашвэ,язык эльфов,BG1NPC
 Tenhammer,Размолотивший,,BG1RUS-EET
 Tenhevich,Тенхович,,BG1RUS-EET
-Tenna,Тенна,,Kivan_and_Deheriana
+Tenna,тенна,язык эльфов,Kivan_and_Deheriana
 Tennek,Теннек,,BG2EE-russian
 Tenser,Тенсер,,BG1RUS-EET
 Tenya,Тения,,BG1RUS-EET
@@ -4746,7 +4748,7 @@ Ulraunt,Улраунт,,BG1RUS-EET
 Ultarg,Ултарк,,NWNForBG
 Ultrablast,Сверх-взрыв,,iwd2_rus
 Ultrinnan,Ултриннан,,BG2EE-russian
-Ulu,Улу,,BG1NPC
+Ulu,улу,язык дроу,BG1NPC
 Ulua,улуа,язык эльфов,Kivan_and_Deheriana
 Ulutiun,Улутиун,,NWNForBG
 Ulvana,Ульвана,,sod_rus
@@ -4840,7 +4842,7 @@ Vay-ya,Вай-йя,,BG1RUS-EET
 Ve'xelt,Ве`кселт,,SandrahEET
 Vecna,Векна,,BG2EE-russian
 Veddion,Веддион,,iwd2_rus
-Vedui,Ведуи,,Kivan_and_Deheriana
+Vedui,ведуи,язык эльфов,Kivan_and_Deheriana
 Veira,Вейра,,iwd2_rus
 Veiros,Вейрос,,iwd2_rus
 Veladorn,Веладорн,,BG1NPC
